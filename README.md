@@ -26,6 +26,15 @@ Incluye tanto una **librería** (`PasswordGenerator`) como una **interfaz gráfi
 
 ---
 
+## 📦 Instalación y ejecución  
+
+1. Clona el repositorio en tu máquina local:  
+
+```bash
+git clone https://github.com/aleme79/PasswordGenerator.git
+
+---
+
 ## 📸 Captura de pantalla  
 
 <img width="745" height="750" alt="image" src="https://github.com/user-attachments/assets/948ae8d9-1196-4184-bc93-f1f691a875cc" />
